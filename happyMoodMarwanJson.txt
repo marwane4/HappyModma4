@@ -1,39 +1,39 @@
 
 	{
-"version": "v7",
+"version": "v1",
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
 		"Frequence": "1",
 		"specificationAds explication ": "0 automatique , 1 admob ,2fan ,3 unity , 4 iron",
-		"specificationAds": "2",
+		"specificationAds": "1",
 
 	"iron": "badal li ltaht ila bghiti iron",
 	
-	"ironId": "e1d8ff01",
-	"ironBanner": "DefaultBanner",
-	"ironInter": "DefaultInterstitial",
-	"ironReward": "DefaultRewardedVideo",
+	"ironId": "x0x0xx00",
+	"ironBanner": "Default",
+	"ironInter": "DefaultI",
+	"ironReward": "Default",
 
 
 	"admob": "hado dyal admob li taht",
 
 	"AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
-	"interId": "ca-app-pub-3940256099942544/1033173712",
-	"bannerId": "ca-app-pub-3940256099942544/6300978111",
-	"rewardadmob": "ca-app-pub-3940256099942544/5224354917",
+	"interId": "ca-app-pub-0000000000000000/0000000000",
+	"bannerId": "ca-app-pub-0000000000000000/0000000000",
+	"rewardadmob": "ca-app-pub-0000000000000000/0000000000",
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
-	"FanInter": "436713450827755_436713767494390",
-	"FanBanner": "436713450827755_436714014161032",
-	"FanReward": "436713450827755_436714164161017",
+	"FanInter": "1305936796449319_1305938243115841",
+	"FanBanner": "1305936796449319_1305937816449217",
+	"FanReward": "1305936796449319_1305937219782610",
 
 	"unity": "badal li ltaht ila bghiti unity",
 	
-	"UnityAppId": "3949519",
-	"UnityInter": "video",
-	"Unitybanner": "banner",
-	"unityreward": "rewardedVideo",
+	"UnityAppId": "0000000",
+	"UnityInter": "deo",
+	"Unitybanner": "nner",
+	"unityreward": "Video",
 	
 		"App URL": "Hna ga3 les URL o name li f app ",
 
