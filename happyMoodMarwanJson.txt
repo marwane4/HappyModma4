@@ -1,0 +1,54 @@
+
+	{
+"version": "test v6",
+"frequence explication": "frequence kithakem f chhal men click iban ads",
+
+		"Frequence": "0",
+		"specificationAds explication ": "0 automatique , 1 admob ,2fan ,3 unity , 4 iron",
+		"specificationAds": "0",
+
+	"iron": "badal li ltaht ila bghiti iron",
+	
+	"ironId": "e1d8ff01",
+	"ironBanner": "DefaultBanner",
+	"ironInter": "DefaultInterstitial",
+	"ironReward": "DefaultRewardedVideo",
+
+
+	"admob": "hado dyal admob li taht",
+
+	"AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
+	"interId": "ca-app-pub-3940256099942544/1033173712",
+	"bannerId": "ca-app-pub-3940256099942544/6300978111",
+	"rewardadmob": "ca-app-pub-3940256099942544/5224354917",
+
+	"facebook": "badal li ltaht ila bghiti facebook",
+	
+	"FanInter": "436713450827755_436713767494390",
+	"FanBanner": "436713450827755_436714014161032",
+	"FanReward": "436713450827755_436714164161017",
+
+	"unity": "badal li ltaht ila bghiti unity",
+	
+	"UnityAppId": "3949519",
+	"UnityInter": "video",
+	"Unitybanner": "banner",
+	"unityreward": "rewardedVideo",
+	
+		"App URL": "Hna ga3 les URL o name li f app ",
+
+		"iconSTART": "https://play-lh.googleusercontent.com/4y93_RzTDsYZzJUWVbIxbbAx_troXmXrs27zzEi1PSO2rpa5Uzj0NIa1sYdpwa-A5NM=s180",
+		"ImgGame1": "https://play-lh.googleusercontent.com/VwcR1YWgAm1jl3ZA07QDDaUZYXOsrV9GQmrJRPxbajXuTDTW-NIqVQE0ec4s8vwhrA=s180",
+		"ImgGame2": "https://play-lh.googleusercontent.com/7pbt4KZDcJBWQUAgaXNc-KSv-DJpNmKZa2SlqcxbzJAuMIlJEM_m13UFs3GN5aT0XOo=s180",
+		"ImgGame3": "https://play-lh.googleusercontent.com/p5p3XOkGw84KJM1c_SZpu-aJUgHLM82MkMQ2ZvVzFyMwQsb0wePF_fLsJEDtEltQ5PA=s180",
+		"ImgGame4": "https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM=s180",
+		"nameGame1": "gamme1",
+		"nameGame2": "game2",
+		"nameGame3": "game3",
+		"nameGame4": "game4",
+		"URLGame1": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
+		"URLGame2": "https://play.google.com/store/apps/details?id=com.amanotes.beathopper",
+		"URLGame3": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
+		"URLGame4": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga"
+
+}
