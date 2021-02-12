@@ -3,9 +3,9 @@
 "version": "v1",
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
-		"Frequence": "1",
+		"Frequence": "5",
 		"specificationAds explication ": "0 automatique , 1 admob ,2fan ,3 unity , 4 iron",
-		"specificationAds": "1",
+		"specificationAds": "2",
 
 	"iron": "badal li ltaht ila bghiti iron",
 	
