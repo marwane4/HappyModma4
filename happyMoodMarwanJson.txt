@@ -1,6 +1,6 @@
 
 	{
-"version": "v1",
+"version": "FireSwipe",
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
 		"Frequence": "3",
