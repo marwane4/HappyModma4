@@ -3,7 +3,7 @@
 "version": "FireSwipe",
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
-		"Frequence": "6",
+		"Frequence": "3",
 		"specificationAds explication ": "0 automatique , 1 admob ,2fan ,3 unity , 4 iron",
 		"specificationAds": "2",
 
