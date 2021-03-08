@@ -1,9 +1,9 @@
 
 	{
-"version": "FireSwipe",
+"version": "FireSwipe v1",
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
-		"Frequence": "5",
+		"Frequence": "2",
 		"specificationAds explication ": "0 automatique , 1 admob ,2fan ,3 unity , 4 iron",
 		"specificationAds": "2",
 
@@ -25,8 +25,8 @@
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
 	"FanInter": "1305936796449319_1305938243115841",
-	"FanBanner": "1305936796449319_1305937816449217",
-	"FanReward": "1305936796449319_1305937219782610",
+	"FanBanner": "1305936796449319",
+	"FanReward": "1305936796449319_1305938243115841",
 
 	"unity": "badal li ltaht ila bghiti unity",
 	
